@@ -9,6 +9,6 @@ The crypto_clustering notebook first proprocesses the cryptocurrency data by ref
 ![alt text](resources/scatter.PNG)
 
 
-3d-scatter of PCA with plotly express 
+3d_scatter of PCA with plotly express 
 ![alt text](resources/3d-scatter.PNG)
 
